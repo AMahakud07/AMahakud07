@@ -3,7 +3,7 @@
 ![WhatsApp Image 2022-11-09 at 12 10 29 AM](https://user-images.githubusercontent.com/108911853/200648670-dc86ccec-73c5-47d1-a50c-423e31e60203.jpeg)
 
 
-<h1 align="center">Hi 👋, I'm Abhishek Mahakud</h1>
+<h1 align="center">Hi 👋, I'm Abhishek Mahakud.</h1>
 <h3 align="center">A passionate full-stack web developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amahakud07&label=Profile%20views&color=0e75b6&style=flat" alt="amahakud07" /> </p>
