@@ -8,13 +8,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amahakud07&label=Profile%20views&color=0e75b6&style=flat" alt="amahakud07" /> </p>
 
-- 🔭 I’m currently working on **Spotify Clone**
+- 🔭 I’m currently working on **Something Interesting**
 
 - 🌱 I’m currently learning **Express and MongoDB**
 
 - 📫 How to reach me **abhishekmahakud007@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:-</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abhishek mahakud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek mahakud" height="30" width="40" /></a>
 </p>
