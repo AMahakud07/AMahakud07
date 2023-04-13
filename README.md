@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Something Interesting**
 
-- 🌱 I’m currently learning **Express and MongoDB**
+- 🌱 I’m currently learning **Next.js**
 
 - 📫 How to reach me **abhishekmahakud007@gmail.com**
 
